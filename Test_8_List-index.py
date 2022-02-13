@@ -10,4 +10,5 @@ print(a)
 print(a[2])
 a[0]=100
 print(a)
+print(a[0:5])
 #ends
