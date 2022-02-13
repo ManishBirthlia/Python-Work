@@ -1,0 +1,7 @@
+a=int(input('put any number of a: '))
+b=int(input('put any number of b: '))
+print('a+b is:',a+b)
+print('a-b is:',a-b)
+print('a*b is:',a*b)
+print('a/b is:',a/b)
+print('Reminder of a/b is:',a%b)
