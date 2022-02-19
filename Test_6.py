@@ -1,3 +1,4 @@
+# for more on string index properties
 a=input('input:\n')
 print(type(a))
 print(a[1:])
