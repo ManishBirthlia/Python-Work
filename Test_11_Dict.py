@@ -1,8 +1,9 @@
+from re import T
 from unicodedata import name
 
 
 a={
-    "name" : "manish",
+    "name" : "manish", 
     "clss" : "14th",
     "college": "Nit hamirpur",
     1:2,
