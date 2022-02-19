@@ -3,6 +3,7 @@ from re import A
 
 t=(7,2,4,3,5,6,1,7,8,43,6)
 print(type(t))
+print(t)
 # print(t)
 # t[0]=100 #this will throw some error
 # print(t)
