@@ -1,6 +1,5 @@
-# 1st method
-from re import I
 
+# 1st method
 
 b=input("input: ")
 c=input("input: ")
@@ -12,6 +11,7 @@ i=input("input: ")
 f=input("input: ")
 j=input("input: ")
 a=[b,c,d,e,f,g,h,i,j]
+print(a)
 # 2nd method
 # a=[]
 # b=input("input:\n")
